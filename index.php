@@ -1,5 +1,5 @@
 <?php
 
-	echo 'Ez az új fileswswswswswswswswsw';
+	echo 'Ez az új fileswswswswswswswswswaztán megint';
 
 ?>
